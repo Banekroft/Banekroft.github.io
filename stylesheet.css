@@ -162,6 +162,10 @@ footer {
   width: 50%;
 }
 
+#img {
+  margin: 24px auto 24px auto;
+}
+
 #img-bane {
   border-color: #0b0c0f;
   border-radius: 8px;
